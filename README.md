@@ -1,1 +1,1 @@
-# axelor_rabat_d
+# axelor-erp
